@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anup Basnet</h1>
 <h3 align="center">An enthusiastic frontend developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20220620/original/pngtree-young-man-working-with-laptop-and-computer-png-image_8135318.png">
+<img align="center" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20220620/original/pngtree-young-man-working-with-laptop-and-computer-png-image_8135318.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup-basnet&label=Profile%20views&color=0e75b6&style=flat" alt="anup-basnet" /> </p>
 
